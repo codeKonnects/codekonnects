@@ -7,10 +7,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am a Computer Science graduate from the University of Ilorin**.
-    🌱 I am proficient in Java, Spring Framework, PostgreSQL, Junit, and TDD**.
-    🎯 My Goal is to make the world a better place by solving problems, one at a time.
-    ✨ I'm very inquisitive and I love teamwork.
+   
 <td >
     <a href=https://app.daily.dev/codekonnects"><img src="https://api.daily.dev/devcards/3c854c2e984e4cdba44d57d729b89d9f.png?r=3zv" width="400" alt="David's Dev Card"/></a>
   </td>
@@ -22,13 +19,11 @@ https://activity-graph.herokuapp.com/graph?username=#your-codekonnects&theme=dra
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ # 🎓 I am a Computer Science graduate from the University of Ilorin**.
+ # 🌱 I am proficient in Java, Spring Framework, PostgreSQL, Junit, and TDD**.
+ # 🎯 My Goal is to make the world a better place by solving problems, one at a time.
+ # ✨ I'm very inquisitive and I love teamwork.
+ # 💬 Ask me about Back End Development
+ # 📫 How to reach me: topedaves@gmail.com.
+ 
 -->
