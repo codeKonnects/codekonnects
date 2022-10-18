@@ -1,29 +1,37 @@
-# Hi, I'm CodeKonnects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/david-abejirin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/dxdxcoder">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=codekonnects&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hi, I'm David
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<!--
-**codeKonnects/codekonnects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ --- 
 
+### :man_technologist: About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m working as a Software Engineer at Decagon.
 
-<table>
-<tr>
-  <td valign="center">
-   
-<td >
-    <a href=https://app.daily.dev/codekonnects"><img src="https://api.daily.dev/devcards/3c854c2e984e4cdba44d57d729b89d9f.png?r=3zv" width="400" alt="David's Dev Card"/></a>
-  </td>
-</tr>
-</table>
-https://activity-graph.herokuapp.com/graph?username=#your-codekonnects&theme=dracula&hide_border=true
+- :seedling: Exploring Backend development and system design.
+
+- :zap: In my free time, I read books on business pyschology and I hang out with friends.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davidabejirin@gmail.com)
 
 
 
-
-Here are some ideas to get you started:
- # 🎓 I am a Computer Science graduate from the University of Ilorin**.
- # 🌱 I am proficient in Java, Spring Framework, PostgreSQL, Junit, and TDD**.
- # 🎯 My Goal is to make the world a better place by solving problems, one at a time.
- # ✨ I'm very inquisitive and I love teamwork.
- # 💬 Ask me about Back End Development
- # 📫 How to reach me: topedaves@gmail.com.
- 
--->
