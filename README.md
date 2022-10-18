@@ -31,7 +31,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I read books on business pyschology and I hang out with friends.
 
--  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/david-abejirin/))
+-  :mailbox:How to reach me: topedaves@gmail.com
 
 ---
 
@@ -52,6 +52,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codekonnects&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codekonnects&layout=compact&theme=vision-friendly-dark)](https://github.com/codekonnects/github-readme-stats)
 
 
 
